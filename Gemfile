@@ -45,6 +45,7 @@ group :development, :test do
   gem 'spring'
 
   gem 'shoulda'
+  gem 'dotenv-rails'
 end
 
 group :test do
